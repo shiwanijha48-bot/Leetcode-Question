@@ -6,6 +6,7 @@ class Solution:
             ans += abs(ord(s[i]) - ord(s[i + 1]))
         return ans
 
+
 '''
 3110. Score of a String
 Solved
