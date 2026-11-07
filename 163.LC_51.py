@@ -38,9 +38,6 @@ class Solution:
         return ans
 
 
-
-
-
 '''
 51. N-Queens
 Solved
