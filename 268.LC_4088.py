@@ -8,8 +8,7 @@ class Solution:
             elif nums[i] < nums[i-1] and nums[i] < nums[i+1]:
                 b += nums[i]
         return a-b
-            
-
+        
 
 '''
 3644. Maximum K to Sort a Permutation
