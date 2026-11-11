@@ -7,7 +7,7 @@ class Solution:
         return max(ans, 0)
 
   '''
-  3644. Maximum K to Sort a Permutation
+3644. Maximum K to Sort a Permutation
 Solved
 Medium
 Topics
