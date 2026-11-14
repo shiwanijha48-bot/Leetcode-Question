@@ -11,6 +11,8 @@ class Solution:
 
         return max(0, min(b, d) - max(a, c) + 1) # overlap btw therr stays
 
+
+
 '''
 2409. Count Days Spent Together
 Solved
