@@ -14,6 +14,8 @@ class Solution:
                         dp[i][j].add(x^grid[i][j])
         return min(dp[m-1][n-1])
 
+
+
   '''
   3882. Minimum XOR Path in a Grid
 Solved
