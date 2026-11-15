@@ -7,7 +7,6 @@ class Solution:
            grid[i][n-1] = '.'
         return [''.join(k) for k in grid]
 
-
 '''
 3963. Create Grid With Exactly One Path
 Solved
