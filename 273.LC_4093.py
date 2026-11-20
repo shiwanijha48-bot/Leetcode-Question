@@ -11,7 +11,7 @@ class Solution:
         return ans
 
   '''
-  4093. Maximize Sum After At Most K Digit Rearrangements
+4093. Maximize Sum After At Most K Digit Rearrangements
 Solved
 Medium
 premium lock icon
