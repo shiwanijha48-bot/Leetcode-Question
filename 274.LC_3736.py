@@ -7,7 +7,6 @@ class Solution:
         return ans
 #  logic - since we cant dec ele, therefore just inc all ele until it reaches its max ele, then all will be same.
 
-
 '''
 3736. Minimum Moves to Equal Array Elements III
 Solved
