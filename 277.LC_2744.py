@@ -9,6 +9,8 @@ class Solution:
             else:
                 seen.add(word)
         return count
+
+
 '''
 2744. Find Maximum Number of String Pairs
 Solved
